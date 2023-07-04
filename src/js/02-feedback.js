@@ -1,4 +1,4 @@
-import throttle from 'lodash.throttle';
+// import throttle from 'lodash.throttle';
 import '../css/common.css';
 import '../css/feedback-form.css';
 
