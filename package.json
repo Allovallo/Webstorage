@@ -1,0 +1,28 @@
+{
+  "name": "js-22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /Webstorage/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allovallo/Webstorage.git"
+  },
+  "keywords": [],
+  "author": "Allovalo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Allovallo/Webstorage/issues"
+  },
+  "homepage": "https://allovallo.github.io/Webstorage/",
+  "devDependencies": {
+    "parcel-bundler": "latest",
+    "parcel-plugin-handlebars-precompile": "latest"
+  },
+  "dependencies": {
+    "lodash.throttle": "latest"
+  }
+}
